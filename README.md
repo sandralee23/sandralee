@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @sandralee23
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Sandra Lee
+- 👀 I’m interested in ... cooking, baking, 
+- 🌱 I’m currently learning ... how to sl
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+# social media 
+instagram_username: sandra.lee_
 
 <!---
 sandralee23/sandralee23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
