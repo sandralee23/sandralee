@@ -5,6 +5,9 @@
 - 📫 How to reach me ...
 # social media 
 instagram_username: sandra.lee_
+twitter_username: sandyleeks
+facebook_username: Sandra Lee
+github_username: sandralee23
 
 <!---
 sandralee23/sandralee23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
