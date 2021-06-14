@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sandra Lee
-- 👀 I’m interested in ... cooking, baking, 
-- 🌱 I’m currently learning ... how to sl
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... learning how to sew without pricking my finger, baking without making a mess, sitting down without shaking my leg 
+- 🌱 I’m currently learning ... how to pass this class with the least amount of work, how to not get in trouble before graduation 
+- 💞️ Brag sheet/Things I want ... a nice amount of money, a stable job at a respectable work place, a good GPA in college, better friends, more cats to adopt 
 - 📫 How to reach me ...
 # social media 
 instagram_username: sandra.lee_
